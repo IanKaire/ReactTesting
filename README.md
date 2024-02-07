@@ -50,5 +50,5 @@ For this project I simply use Jest, the javascript testing framework
    
 2. Install the necessary dependencies using npm install.
    
-3. Run the tests with _npm test_ (backend) and *npm start* to check out the application.
+3. Run the test with _npm test_ and *npm start* to check out the application.
    
